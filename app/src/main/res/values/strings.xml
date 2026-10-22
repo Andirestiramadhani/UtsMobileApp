@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">UTS Mobile App</string>
+    <string name="product_name">Nama Product</string>
+    <string name="image_thumbnail">Thumbnail Product</string>
+    <string name="image_detail_product">Gambar Product</string>
+    <string name="label_id">Product ID</string>
+    <string name="label_category">Kategori</string>
+    <string name="label_price">Harga</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_stock">Stok</string>
+    <string name="label_availability">Ketersediaan</string>
+    <string name="label_tags">Tags</string>
+    <string name="label_dimensions">Dimensi</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="label_reviews">Reviews</string>
+    <string name="tampilkan_gambar">Tampilkan Gambar Product</string>
+    <string name="image_view">Image View</string>
+
+    <!-- Navigasi -->
+    <string name="title_menu">Menu</string>
+    <string name="title_about">About</string>
+    <string name="title_detail">Detail</string>
+    <string name="error_load_data">Gagal memuat data.\nPeriksa koneksi internet, lalu tarik layar ke bawah untuk mencoba lagi.</string>
+
+    <!-- About: tab -->
+    <string name="tab_profil">Profil</string>
+    <string name="tab_tentang_saya">Tentang Saya</string>
+    <string name="foto_profil">Foto profil</string>
+
+    <!-- About: label -->
+    <string name="about_label_nama">Nama</string>
+    <string name="about_label_email">Email</string>
+    <string name="about_label_no_hp">No. HP</string>
+    <string name="about_label_nim">NIM</string>
+    <string name="about_label_prodi">Prodi</string>
+    <string name="about_label_jurusan">Jurusan</string>
+    <string name="about_label_perguruan_tinggi">Perguruan Tinggi</string>
+
+    <!-- About: DATA PROFIL -->
+    <string name="profile_nama">Andi Resti Ramadhani</string>
+    <string name="profile_email">andirestyramadhani01@gmail.com</string>
+    <string name="profile_no_hp">087703587468</string>
+    <string name="profile_nim">6304240016</string>
+    <string name="profile_prodi">Rekayasa Perangkat Lunak</string>
+    <string name="profile_jurusan">Teknik Informatika</string>
+    <string name="profile_perguruan_tinggi">Politeknik Negeri Bengkalis</string>
+    <string name="profile_tentang">Saya adalah mahasiswa Program Studi Rekayasa Perangkat Lunak (RPL) di Jurusan Teknologi Informasi (TI). Bagi saya, menjadi mahasiswa bukan hanya soal datang ke kelas dan mengerjakan tugas, tetapi juga proses belajar untuk berpikir kritis, mandiri, dan bertanggung jawab atas pilihan sendiri.\n\nDi bangku kuliah, saya belajar bahwa menulis program tidak sekadar menghafal sintaks. Setiap aplikasi dimulai dari masalah yang perlu dipahami, lalu dipecah menjadi langkah-langkah kecil yang bisa diselesaikan. Kadang kode yang saya tulis langsung berjalan, tetapi lebih sering saya harus menghadapi error, membaca pesan kesalahan, dan mencoba lagi. Dari situ saya belajar bahwa sabar dan teliti sama pentingnya dengan kemampuan teknis.\n\nMata kuliah Pemrograman Mobile memperkenalkan saya pada dunia pengembangan aplikasi Android, mulai dari merancang tampilan, mengatur navigasi antarhalaman, menampilkan data dalam bentuk daftar, hingga mengambil data dari internet menggunakan Retrofit. Aplikasi sederhana ini adalah salah satu hasil dari proses belajar tersebut.\n\nKe depan, saya ingin terus mengasah kemampuan, belajar dari kesalahan, dan berkolaborasi dengan teman-teman agar bisa menjadi pengembang perangkat lunak yang bermanfaat bagi banyak orang.</string>
+
+    <!-- Review -->
+    <string name="lihat_semua_review">Lihat semua review</string>
+    <string name="title_semua_review">Semua Review</string>
+    <string name="tutup">Tutup</string>
+</resources>
